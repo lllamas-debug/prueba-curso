@@ -1,7 +1,6 @@
 # prueba-curso
-
-fdgdfgdfg
-
+fdfdfd
+dffdfd
 Hola mundo
 
 Hola mundo desde Git
